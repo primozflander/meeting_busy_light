@@ -1,4 +1,4 @@
-# Zoom/Teams Meeting Busy Light
+# Zoom / Teams Meeting Busy Light
 
 Solution for easily detecting Zoom and Teams meetings and controlling the color of the remote busy light.
 
@@ -44,4 +44,4 @@ Follow this steps to set up the app.
 
 Primoz Flander: [primoz.flander@gmail.com](<mailto:primoz.flander@gmail.com>)
 
-Project Link: [Meeting busy light](https://github.com/primozflander/meeting_busy_light)
+Project Link: [Zoom / Teams Meeting Busy Light](https://github.com/primozflander/meeting_busy_light)
